@@ -11,4 +11,4 @@ To use this playlist, copy and paste the link below into IPTV player [![]()🔗C
 ```text
 https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
 ```
-<img width="473" height="1024" alt="image" src="./SC-MX02/IPTV-BD/blob/main/assets/cricfy_tv.webp" />
+<img width="473" height="1024" alt="image" src="./assets/cricfy_tv.webp" />
