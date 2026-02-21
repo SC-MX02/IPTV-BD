@@ -18,3 +18,6 @@ To use this playlist, copy and paste the URL below into your favorite IPTV playe
 
 ```text
 [https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u](https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u)
+
+
+<img width="auto" height="auto" alt="image" src="./assets/cricfy_tv.png" />
