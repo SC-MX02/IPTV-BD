@@ -1,4 +1,4 @@
-# 📺 IPTV Bangladesh :bangladesh:
+# 📺 IPTV Bangladesh 🇧🇩
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen.svg)]()
 [![Channels](https://img.shields.io/badge/Channels-Multi--Language-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
