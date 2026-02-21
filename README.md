@@ -1,10 +1,10 @@
-# 📺 IPTV Bangladesh & International
+# 📺 IPTV Bangladesh 🇧🇩
 
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen.svg)]()
 [![Channels](https://img.shields.io/badge/Channels-Multi--Language-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
-A curated list of live TV channels focusing on Bangladeshi (BD) and International networks. This playlist is provided for educational and personal use.
+A curated list of live TV channels focusing on Bangladeshi (BD) networks. This playlist is provided for educational and personal use.
 
 ## 🚀 Quick Link
 To use this playlist, copy and paste the link below into IPTV player [![]()🔗Crickfy TV](https://cricfy.to/download/)
