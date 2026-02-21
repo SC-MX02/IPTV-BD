@@ -10,3 +10,5 @@ To use this playlist, copy and paste the link below into IPTV player [![]()🔗C
 
 ```text
 https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
+
+<img width="473" height="1024" alt="image" src="https://github.com/user-attachments/assets/1030729c-59bb-4dd9-98f8-8d92e23560e7" />
