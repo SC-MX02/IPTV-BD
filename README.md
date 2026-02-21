@@ -10,4 +10,4 @@ A curated list of live TV channels focusing on Bangladeshi (BD) and Internationa
 To use this playlist, copy and paste the link below into your favorite IPTV player:
 
 ```text
-[https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u](https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u)
+https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
