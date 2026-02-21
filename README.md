@@ -1,4 +1,4 @@
-# 📺 IPTV Bangladesh 	&#x1f1e7;&#x1f1e9;
+# 📺 IPTV Bangladesh ![BD Flag](https://img.shields.io/badge/Region-Bangladesh-red?style=flat&logo=target&logoColor=green)
 
 [![Status](https://img.shields.io/badge/Status-Online-brightgreen.svg)]()
 [![Channels](https://img.shields.io/badge/Channels-Multi--Language-blue.svg)]()
