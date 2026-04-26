@@ -10,10 +10,7 @@
 > *This playlist is provided for educational and personal use.*
 
 </div>
-<p>
-  <div style="text-align: center; margin: 20px 0;"><a href="https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/plalistLink.txt" style="display: inline-block; padding: 12px 24px; background: #007BFF; color: #ffffff; text-decoration: none; border: 2px solid #0056b3; border-radius: 4px; font-family: sans-serif; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: 0.3s;" onmouseover="this.style.background='#0056b3'" onmouseout="this.style.background='#007BFF'">ALL Playlist Original Links</a></div>
-</p>
-
+<div align="center"><a href="/plalistLink.txt" style="display: inline-block; padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; border: 1px solid #0056b3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; font-size: 16px;">ALL Playlist Original Links</a></div>
 
 ## 🚀 Quick Link
 ---
