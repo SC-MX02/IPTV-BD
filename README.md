@@ -10,7 +10,7 @@
 > *This playlist is provided for educational and personal use.*
 
 </div>
-<div align="center"><a href="/plalistLink.txt" style="display: inline-block; padding: 12px 24px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 6px; border: 1px solid #0056b3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; font-size: 16px;">ALL Playlist Original Links</a></div>
+<a href="/plalistLink.txt" style="align: center;">ALL Playlist Original Links</a></div>
 
 ## 🚀 Quick Link
 ---
