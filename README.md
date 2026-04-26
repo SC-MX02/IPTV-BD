@@ -10,7 +10,7 @@
 
 </div>
 
-<a href="URL_HERE" style="display: inline-block; padding: 10px 20px; background: #007BFF; color: #fff; text-decoration: none; border-radius: 5px;">Get Playlist</a>
+<a href="https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/plalistLink.txt" style="display: inline-block; padding: 10px 20px; background: #007BFF; color: #fff; text-decoration: none; border-radius: 5px;">Get Playlist</a>
 
 ## 🚀 Quick Link
 
@@ -19,7 +19,5 @@ To use this playlist, copy and paste the URL below into your favorite IPTV playe
 ```text
 https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
 ```
-```text
-https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/plalistLink.txt
-```
+
 
