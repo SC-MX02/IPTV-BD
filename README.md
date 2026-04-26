@@ -6,17 +6,14 @@
 [![Channels](https://img.shields.io/badge/Channels-Multi_Language-006A4E?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-F42A41?style=for-the-badge)]()
 
-> **A curated list of live TV channels focusing on Bangladeshi (BD) networks.** > *This playlist is provided for educational and personal use.*
+> **A curated list of live TV channels focusing on Bangladeshi (BD) networks.**
+> *This playlist is provided for educational and personal use.*
 
 </div>
-
 
 ## 🚀 Quick Link
 
 To use this playlist, copy and paste the URL below into your favorite IPTV player, such as **VLC Media Player**.
 
 ```text
-https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
-```
-----
-<div onclick="location.href='/plalistLink.txt';" role="button" tabindex="0" style="display: inline-block; padding: 10px 20px; background: #007BFF; color: #fff; text-decoration: none; border-radius: 5px; cursor: pointer; font-family: sans-serif; user-select: none;" onmouseover="this.style.background='#0056b3'" onmouseout="this.style.background='#007BFF'">ALL Playlist Original Links</div>
+[https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u](https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u)
