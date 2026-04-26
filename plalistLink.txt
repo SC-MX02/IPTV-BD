@@ -1,0 +1,117 @@
+{
+    "playlist_1.m3u": {
+        "url": "https://go.iptvpulse.top/h2zd.m3u",
+        "name": "playlist_1.m3u",
+        "channels": 77
+    },
+    "playlist_2.m3u": {
+        "url": "https://go.iptvpulse.top/emja.m3u",
+        "name": "playlist_2.m3u",
+        "channels": 807
+    },
+    "playlist_3.m3u": {
+        "url": "https://go.iptvpulse.top/pcab.m3u",
+        "name": "playlist_3.m3u",
+        "channels": 149
+    },
+    "playlist_4.m3u": {
+        "url": "https://da.gd/XdBEQ5",
+        "name": "playlist_4.m3u",
+        "channels": 633
+    },
+    "playlist_5.m3u": {
+        "url": "https://go.iptvpulse.top/Combined.m3u",
+        "name": "playlist_5.m3u",
+        "channels": 780
+    },
+    "playlist_6.m3u": {
+        "url": "https://go.iptvpulse.top/aynapro.m3u",
+        "name": "playlist_6.m3u",
+        "channels": 272
+    },
+    "playlist_7.m3u": {
+        "url": "https://go.iptvpulse.top/bangla.m3u",
+        "name": "playlist_7.m3u",
+        "channels": 34
+    },
+    "playlist_8.m3u": {
+        "url": "https://go.iptvpulse.top/69pz.m3u",
+        "name": "playlist_8.m3u",
+        "channels": 53
+    },
+    "playlist_9.m3u": {
+        "url": "https://go.iptvpulse.top/hmyz.m3u",
+        "name": "playlist_9.m3u",
+        "channels": 153
+    },
+    "playlist_10.m3u": {
+        "url": "https://is.gd/uZGhes.m3u",
+        "name": "playlist_10.m3u",
+        "channels": 637
+    },
+    "playlist_11.m3u": {
+        "url": "https://da.gd/IabQXN",
+        "name": "playlist_11.m3u",
+        "channels": 99
+    },
+    "playlist_12.m3u": {
+        "url": "https://go.iptvpulse.top/palki32.m3u",
+        "name": "playlist_12.m3u",
+        "channels": 92
+    },
+    "playlist_13.m3u": {
+        "url": "https://da.gd/ulrYcs",
+        "name": "playlist_13.m3u",
+        "channels": 680
+    },
+    "playlist_14.m3u": {
+        "url": "https://is.gd/LKyZ6M.m3u",
+        "name": "playlist_14.m3u",
+        "channels": 123
+    },
+    "playlist_15.m3u": {
+        "url": "https://go.iptvpulse.top/hteu.m3u",
+        "name": "playlist_15.m3u",
+        "channels": 2001
+    },
+    "playlist_16.m3u": {
+        "url": "https://go.iptvpulse.top/rdqp.m3u",
+        "name": "playlist_16.m3u",
+        "channels": 41
+    },
+    "playlist_17.m3u": {
+        "url": "https://iptv-org.github.io/iptv/index.m3u",
+        "name": "playlist_17.m3u",
+        "channels": 11951
+    },
+    "playlist_19.m3u": {
+        "url": "https://da.gd/5NX0W",
+        "name": "playlist_19.m3u",
+        "channels": 82
+    },
+    "playlist_20.m3u": {
+        "url": "https://go.iptvpulse.top/qgj7.m3u",
+        "name": "playlist_20.m3u",
+        "channels": 142
+    },
+    "playlist_21.m3u": {
+        "url": "https://is.gd/tXqcas.m3u",
+        "name": "playlist_21.m3u",
+        "channels": 149
+    },
+    "playlist_22.m3u": {
+        "url": "https://da.gd/PY1SD",
+        "name": "playlist_22.m3u",
+        "channels": 149
+    },
+    "playlist_23.m3u": {
+        "url": "https://da.gd/Z8kEtB",
+        "name": "playlist_23.m3u",
+        "channels": 512
+    },
+    "playlist_24.m3u": {
+        "url": "https://go.iptvpulse.top/q5zf.m3u",
+        "name": "playlist_24.m3u",
+        "channels": 130
+    }
+}
