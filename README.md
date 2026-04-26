@@ -10,10 +10,13 @@
 > *This playlist is provided for educational and personal use.*
 
 </div>
----
+<p>
+  <a href="https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/plalistLink.txt" style="display: inline-block; padding: 10px 20px; background: #007BFF; color: #fff; text-decoration: none; border-radius: 5px;">ALL Playlist Original Links</a>
+</p>
+
 
 ## 🚀 Quick Link
-
+---
 To use this playlist, copy and paste the URL below into your favorite IPTV player, such as **VLC Media Player**.
 
 ```text
