@@ -18,5 +18,5 @@ To use this playlist, copy and paste the URL below into your favorite IPTV playe
 ```text
 https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
 ```
-
+----
 <div onclick="location.href='/plalistLink.txt';" role="button" tabindex="0" style="display: inline-block; padding: 10px 20px; background: #007BFF; color: #fff; text-decoration: none; border-radius: 5px; cursor: pointer; font-family: sans-serif; user-select: none;" onmouseover="this.style.background='#0056b3'" onmouseout="this.style.background='#007BFF'">ALL Playlist Original Links</div>
