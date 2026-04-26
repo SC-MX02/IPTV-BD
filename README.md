@@ -17,6 +17,6 @@
 To use this playlist, copy and paste the URL below into your favorite IPTV player, such as **VLC Media Player**.
 
 ```text
-[https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u](
+https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/allTVplaylist.m3u
 ```
 ---
