@@ -10,10 +10,9 @@
 > *This playlist is provided for educational and personal use.*
 </div>
 
+<div align="center"><a href="/plalistLink.txt"><b>ALL Playlist ☕︎ Original Links</b></a></div>
 
 ## 🚀 Quick Link
----
-<div align="center"><a href="/plalistLink.txt"><b>ALL Playlist ☕︎ Original Links</b></a></div>
 ---
 To use this playlist, copy and paste the URL below into your favorite IPTV player, such as **VLC Media Player**.
 
