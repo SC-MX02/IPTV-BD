@@ -1,13 +1,13 @@
 {
     "playlist_1.m3u": {
-        "url": "https://go.iptvpulse.top/h2zd.m3u",
+        "url": "https://go.skym3u.top/a5at.m3u",
         "name": "playlist_1.m3u",
-        "channels": 77
+        "channels": 306
     },
     "playlist_2.m3u": {
-        "url": "https://go.iptvpulse.top/emja.m3u",
+        "url": "https://go.skym3u.top/69di.m3u",
         "name": "playlist_2.m3u",
-        "channels": 807
+        "channels": 650
     },
     "playlist_3.m3u": {
         "url": "https://go.iptvpulse.top/pcab.m3u",
@@ -113,5 +113,75 @@
         "url": "https://go.iptvpulse.top/q5zf.m3u",
         "name": "playlist_24.m3u",
         "channels": 130
+    },
+    "playlist_25.m3u": {
+        "url": "https://go.skym3u.top/ih7e.m3u",
+        "name": "playlist_25.m3u",
+        "channels": 45
+    },
+    "playlist_26.m3u": {
+        "url": "https://go.skym3u.top/dne8.m3u",
+        "name": "playlist_26.m3u",
+        "channels": 482
+    },
+    "playlist_27.m3u": {
+        "url": "https://go.skym3u.top/f73p.m3u8",
+        "name": "playlist_27.m3u",
+        "channels": 287
+    },
+    "playlist_28.m3u": {
+        "url": "https://go.skym3u.top/soqc.m3u8",
+        "name": "playlist_28.m3u",
+        "channels": 61
+    },
+    "playlist_29.m3u": {
+        "url": "https://go.skym3u.top/dbjv.m3u",
+        "name": "playlist_29.m3u",
+        "channels": 126
+    },
+    "playlist_30.m3u": {
+        "url": "https://go.skym3u.top/872u.m3u",
+        "name": "playlist_30.m3u",
+        "channels": 321
+    },
+    "playlist_31.m3u": {
+        "url": "https://go.skym3u.top/rywx.m3u",
+        "name": "playlist_31.m3u",
+        "channels": 124
+    },
+    "playlist_32.m3u": {
+        "url": "https://go.skym3u.top/xxmg.m3u",
+        "name": "playlist_32.m3u",
+        "channels": 371
+    },
+    "playlist_33.m3u": {
+        "url": "https://go.skym3u.top/4y5i.m3u",
+        "name": "playlist_33.m3u",
+        "channels": 176
+    },
+    "playlist_34.m3u": {
+        "url": "https://drive.usercontent.google.com/download?id=1eHMX7EDgv3TEQYUiHvY7KwLgaub0F022&export=download",
+        "name": "playlist_34.m3u",
+        "channels": 294
+    },
+    "playlist_35.m3u": {
+        "url": "https://iptv-org.github.io/iptv/regions/asia.m3u",
+        "name": "playlist_35.m3u",
+        "channels": 3057
+    },
+    "playlist_36.m3u": {
+        "url": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "name": "playlist_36.m3u",
+        "channels": 769
+    },
+    "playlist_37.m3u": {
+        "url": "https://iptv-org.github.io/iptv/countries/us.m3u",
+        "name": "playlist_37.m3u",
+        "channels": 1318
+    },
+    "playlist_38.m3u": {
+        "url": "https://go.skym3u.top/rrgb.m3u",
+        "name": "playlist_38.m3u",
+        "channels": 1925
     }
 }
