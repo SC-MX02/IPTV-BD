@@ -10,7 +10,7 @@
 > *This playlist is provided for educational and personal use.*
 
 </div>
-<div align="center"><a href="/plalistLink.txt">ALL Playlist || Original Links</a></div>
+<div align="center"><a href="/plalistLink.txt">ALL Playlist |☕︎| Original Links</a></div>
 
 ## 🚀 Quick Link
 ---
