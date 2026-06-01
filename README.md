@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-F42A41?style=for-the-badge)]()
 
 $${\color{#ed7300}\Huge\textbf{📺 27,000+ Channels}}$$
-> **A curated list of live TV channels focusing on $`\textbf{Bangladeshi}`$ (BD) ISP networks.** <br>
+> **A curated list of live TV channels focusing on Bangladeshi (BD) ISP networks.** <br>
 > *This playlist is provided for educational and personal use.*
 </div>
 
