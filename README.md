@@ -6,8 +6,8 @@
 [![Channels](https://img.shields.io/badge/Channels-Multi_Language-006A4E?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-F42A41?style=for-the-badge)]()
 
-$${\color{red}\Huge\textbf{📺 27,000+ Channels}}$$
-> **A curated list of live TV channels focusing on Bangladeshi (BD) networks.** <br>
+$${\color{#ed7300}\Huge\textbf{📺 27,000+ Channels}}$$
+> **A curated list of live TV channels focusing on $`\color{#ff0000}\textbf{Bangla}\color{#006a4e}\textbf{deshi}`$ (BD) networks.** <br>
 > *This playlist is provided for educational and personal use.*
 </div>
 
