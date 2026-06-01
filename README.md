@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 $`\color{#fbff00}\textbf{IPTV }\color{#ff0000}\textbf{Bangla}\color{#006a4e}\textbf{desh}`$ (🇧🇩)
+# 📺 $`\color{#C0C0C0}\textbf{IPTV }\color{#ff0000}\textbf{Bangla}\color{#006a4e}\textbf{desh}`$ (🇧🇩)
 
 [![Status](https://img.shields.io/badge/Status-Online-2EA043?style=for-the-badge&logo=github&logoColor=white)]()
 [![Channels](https://img.shields.io/badge/Channels-Multi_Language-006A4E?style=for-the-badge)]()
