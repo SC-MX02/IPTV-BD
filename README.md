@@ -25,19 +25,29 @@ https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlis
 
 ## Channels List
 - A Sports
-- ABP News
 - Aaj Tak
+- ABP News
+- Ananda TV
 - ARY Digital
 - ARY News
+- Asian TV
+- ATN Bangla
+- ATN News
+- Bangla TV
 - Banglavision
 - BBC (UK)
 - beIN Sports (MENA / France)
+- Bijoy TV
 - Bioscope+
+- Boishakhi TV
 - BTV (Bangladesh Television)
+- BTV Chittagong
+- BTV World
 - Cartoon Network India
 - Cartoon Network Pakistan
 - CazéTV (Brazil)
 - Channel 24
+- Channel 9
 - Channel i
 - Colors TV
 - CTV / TSN (Canada)
@@ -45,48 +55,60 @@ https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlis
 - DBC News
 - DD National (Doordarshan)
 - Deepto TV
+- Desh TV
 - Discovery Kids India
 - Disney Channel India
 - Disney Junior
 - DSports (South America)
 - Duronto TV
-- ETV Bal Bharat
 - Ekattor TV
 - Ekhon
+- Ekushey Television
+- ETV Bal Bharat
 - Eurosport India
 - Express News
 - Filmazia
 - Fox Sports (USA)
+- Gaan Bangla
 - Geo News
 - Geo Super
 - Geo TV
+- Global Television
 - Green Entertainment
+- Green TV
 - GTV (Gazi TV)
-- Gaan Bangla
 - HUM TV
 - Hungama TV
+- Independent Television
 - iScreen
 - ITV (UK)
 - Jamuna TV
+- Maasranga Television
 - Match TV (Russia)
 - Minimax Pakistan
+- Mohona Television
 - My Robi
-- NTV
+- My TV
+- Nagorik TV
+- News24
+- Nexus Television
 - Nick HD+
 - Nick Jr. India
 - Nickelodeon India
 - Nickelodeon Sonic
 - NOS (Netherlands)
+- NTV
 - Pogo TV
 - Pop Pakistan
 - PTV Home
 - PTV Sports
-- RTV
 - Republic TV
 - Rongeen TV
 - RTBF / VRT (Belgium)
 - RTE (Ireland)
+- RTV
 - RTVE (Spain)
+- SA TV
 - Samaa TV
 - Sangsad Television
 - SBS (Australia)
@@ -103,8 +125,8 @@ https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlis
 - Star Jalsha
 - Star Plus
 - Star Sports Network
-- Super Sport (Sub-Saharan Africa)
 - Super Hungama
+- Super Sport (Sub-Saharan Africa)
 - T Sports
 - Tapmad
 - Telemundo (USA - Spanish)
@@ -121,5 +143,4 @@ https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlis
 - Zee News
 - Zee TV
 - Zee5
-
 
