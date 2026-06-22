@@ -22,3 +22,101 @@ https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlis
 ```
 ---
 
+## 🚀 Channels List
+> *A Sports
+ABP News
+Aaj Tak
+ARY Digital
+ARY News
+Banglavision
+BBC (UK)
+beIN Sports (MENA / France)
+Bioscope+
+BTV (Bangladesh Television)
+Cartoon Network India
+Cartoon Network Pakistan
+CazéTV (Brazil)
+Channel 24
+Channel i
+Colors TV
+CTV / TSN (Canada)
+DAZN (Germany / Italy / Japan / Spain)
+DBC News
+DD National (Doordarshan)
+Deepto TV
+Discovery Kids India
+Disney Channel India
+Disney Junior
+DSports (South America)
+Duronto TV
+ETV Bal Bharat
+Ekattor TV
+Ekhon
+Eurosport India
+Express News
+Filmazia
+Fox Sports (USA)
+Geo News
+Geo Super
+Geo TV
+Green Entertainment
+GTV (Gazi TV)
+Gaan Bangla
+HUM TV
+Hungama TV
+iScreen
+ITV (UK)
+Jamuna TV
+Match TV (Russia)
+Minimax Pakistan
+My Robi
+NTV
+Nick HD+
+Nick Jr. India
+Nickelodeon India
+Nickelodeon Sonic
+NOS (Netherlands)
+Pogo TV
+Pop Pakistan
+PTV Home
+PTV Sports
+RTV
+Republic TV
+Rongeen TV
+RTBF / VRT (Belgium)
+RTE (Ireland)
+RTVE (Spain)
+Samaa TV
+Sangsad Television
+SBS (Australia)
+Somoy TV
+Sony Entertainment TV (SET)
+Sony Max
+Sony Sports Ten 1
+Sony Sports Ten 2
+Sony Sports Ten 3
+Sony Sports Ten 4
+Sony Sports Ten 5
+Sony YAY!
+Sports18
+Star Jalsha
+Star Plus
+Star Sports Network
+Super Sport (Sub-Saharan Africa)
+Super Hungama
+T Sports
+Tapmad
+Telemundo (USA - Spanish)
+TelevisaUnivision (Mexico)
+Ten Sports Pakistan
+Toffee
+TRT (Turkey)
+Unite8 Sports
+Win Sports (Colombia)
+Yle (Finland)
+ZDF / ARD (Germany)
+Zee Bangla
+Zee Cinema
+Zee News
+Zee TV
+Zee5 *
