@@ -11,7 +11,7 @@ $${\color{#ed7300}\Huge\textbf{27,000+  Channels}}$$
 > *This playlist is provided for educational and personal use.*
 </div>
 
-<div align="center"><a href="/play_source_link.txt"><b>ALL Playlist  ☕︎  Original Links</b></a></div>
+<div align="center"><a href="/playlist_source_link.txt"><b>ALL Playlist  ☕︎  Original Links</b></a></div>
 
 ## 🚀 Quick Link  
 ---
