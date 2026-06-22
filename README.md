@@ -23,7 +23,7 @@ https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlis
 ---
 
 
-## 📽️ Channel List
+## 📽️ Common Channel List
 - A Sports
 - Aaj Tak
 - ABP News
