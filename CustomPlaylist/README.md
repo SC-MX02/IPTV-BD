@@ -5,8 +5,8 @@
   **High-Performance • Auto-Updated • HD Streams**
   
 </div>
-
----
+<br />
+  <img src="./VLC_Screenshot.png" alt="VLC Media Player Screenshot" width="50%" />
 
 ## 🚀 Stream URL
 
