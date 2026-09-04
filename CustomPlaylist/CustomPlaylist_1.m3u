@@ -105,6 +105,9 @@ http://103.253.18.58:8000/play/a01l
 https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" ,Hum TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
 https://tv.nurmd2006-official.workers.dev/live/hum_tv_abr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" ,GEO Entertainment
