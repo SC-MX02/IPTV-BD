@@ -110,6 +110,18 @@ https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
 #EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
 https://tv.nurmd2006-official.workers.dev/live/hum_tv_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" ,Hum Sitaray
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://tv.nurmd2006-official.workers.dev/live/hum_sitaray_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" ,Hum Masala
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://tv.nurmd2006-official.workers.dev/live/hum_masala_abr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" ,GEO Entertainment
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
 
