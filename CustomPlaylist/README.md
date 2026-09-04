@@ -3,7 +3,8 @@
   # 📺 Alive IPTV Playlist
 
   **High-Performance • Auto-Updated • HD Streams**
-<br />
+  
+<br>
   <img src="./VLC_Screenshot.png" alt="VLC Media Player Screenshot" width="50%" />
 </div>
 
