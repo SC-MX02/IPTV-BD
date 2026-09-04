@@ -1,1 +1,135 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png", T Sports 1
+https://iptv.aethelcode.workers.dev/TnMn5kZz8aLm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png", T Sports 2
+http://103.209.196.22:84/feed1001/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png", T Sports 3
+http://103.209.196.22:84/feed1001/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png", T Sports 4
+http://103.209.196.22:84/feed1001/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9p3lgmA.png",Gazi TV
+https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png",BTV 1
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png",BTV 2
+http://103.165.93.31:8095/btv/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Sports",Somoy TV 1
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Sports",Somoy TV 2
+http://103.165.93.31:8095/somoyTv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Sports",Somoy TV 3
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://iptv.aethelcode.workers.dev/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" ,Duronto TV 2
+https://iptv.aethelcode.workers.dev/6xyZ3N4oHv2KBJdB6W4p/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",Star Sports Hindi
+http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/120px-Sony_Sports_Network.svg.png" ,Sony Sports 1
+https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/120px-Sony_Sports_Network.svg.png" ,Sony Sports 2
+https://stream.ottplus.bd/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/120px-Sony_Sports_Network.svg.png" ,Sony Sports 3
+https://stream.ottplus.bd/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" ,PTV Sports 1
+http://103.165.93.31:8095/ptv/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/PTV_Sports.png/250px-PTV_Sports.png" ,PTV Sports 2
+http://103.165.93.31:8095/Fifa-1/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/250px-Fox_Sports_wordmark_logo.svg.png",FOX Sports
+http://45.5.118.152:8000/play/a08x/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Pogo_2004.svg" ,POGO
+https://stream.ottplus.bd/live/pogo_sd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SONY_YAY_2022_Logo.png/250px-SONY_YAY_2022_Logo.png" ,Sony YAY
+https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sony_Aath_Logo.png/250px-Sony_Aath_Logo.png" ,Sony Aath 1
+https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sony_Aath_Logo.png/250px-Sony_Aath_Logo.png" ,Sony Aath 2
+https://stream.ottplus.live/live/sony_aath_abr/live/sony_aath_720/chunks.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cartoon-network-ca.png",Cartoon Network
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png" ,Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/500px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" ,Discovery Kids
+https://stream.ottplus.bd/live/discovery_kids_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Bantul_The_Great_logo.jpeg/250px-Bantul_The_Great_logo.jpeg",Batul The Great
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/250px-Discovery_Channel_-_Logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" ,Discovery Hindi
+https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/250px-Discovery_Channel_-_Logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" ,Discovery English
+https://stream.ottplus.live/live/discovery_hd_abr/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/250px-Discovery_Asia_logo.svg.png",Discovery Asia
+https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logo_id.png/250px-Logo_id.png",Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png",National Geographic
+http://103.253.18.58:8000/play/a01l
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" ,Hum TV
+https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png", Star Jalsha 1
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+
+#EXTINF:-1 tvg-logo="https://imglink.cc/cdn/3TXPVSGzx5.png",Star Jalsha 2
+https://aboxbdix.ryvox-tb-8ae.workers.dev/live/nested?url=4bhog6Z8_-Xt_XKMpcIQ0UxCjT3Se9XuxAjARPQN66_xoSPud1o-JJl48tUT8BzWzgUild3NdIbj3pA0mdxErMR1qxUivpV6odhGTecdNbD81A_9jMdAih3tU_7jQc4kjLHQ6S8EamXw_65y9uxBIurgbya_3q2Ilfsqye9b99fVAxTKEj5eO8YDDsrp_62QhAE3FFZKGJmqtYYa4Yjn71i9UlA-CpTJGwUbC311vSyu6Vezq3nKRcP2yWOqGc9G
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/7/70/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/250px-%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Jalsha Movies
+https://kamrul-mc-ar-baki-bc-toder-baper-stream-monekore-user-kor.nurmd2006-official.workers.dev/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg/250px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AB.svg.png",Zee Bangla
+https://stream.ottplus.bd/live/zee_bangla_abr/index.m3u8
