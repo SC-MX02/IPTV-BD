@@ -101,8 +101,11 @@ https://stream.ottplus.live/live/id_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/250px-Natgeologo.svg.png",National Geographic
 http://103.253.18.58:8000/play/a01l
 
-#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" ,Hum TV
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" ,Hum TV 1
 https://stream.ottplus.bd/live/hum_tv_abr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/Hum.png" ,Hum TV 2
+https://tv.nurmd2006-official.workers.dev/live/hum_tv_abr/live/hum_tv_720/l_814581_62272000_15568.ts?nimblesessionid=154416305
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Geo_Entertainment.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" ,GEO Entertainment
 https://s3.ideationtec.live/GEO_Entertainment/GEO_Entertainment.m3u8
