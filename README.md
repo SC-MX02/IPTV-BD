@@ -16,7 +16,7 @@ $${\color{#ed7300}\Huge\textbf{18,500+  Channels}}$$
 
 ## 🚀 Quick Link  
 ---
-To use this playlist, copy and paste the URL below into your favorite IPTV player, such as **VLC Media Player**.
+To use this playlist, copy and paste the URL below into your favorite IPTV player, such as $\color{#E85E00}{\textbf{VLC Media Player}}$.
 
 ```text
 https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/all_tv_playlist.m3u
