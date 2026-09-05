@@ -12,7 +12,7 @@ $${\color{#ed7300}\Huge\textbf{18,500+  Channels}}$$
 </div>
 
 <div align="center"><a href="/playlist_source_link.txt"><b>ALL Playlist  ☕︎  Original Links</b></a></div>
-<div align="center"><a href="/CustomPlaylist"><b>Custom Links</b></a></div>
+<div align="center"><a href="/CustomPlaylist"><b>Custom Playlist</b></a></div>
 
 ## 🚀 Quick Link  
 ---
