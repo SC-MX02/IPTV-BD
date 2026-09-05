@@ -10,7 +10,7 @@
 
 ## 🚀 Stream URL
 
-Copy and paste the URL below directly into VLC Media Player:
+<p>Copy and paste the URL below directly into <span style="color: orange;">VLC Media Player</span> :</p>
 
 ```url
 https://raw.githubusercontent.com/SC-MX02/IPTV-BD/refs/heads/main/CustomPlaylist/CustomPlaylist_1.m3u
