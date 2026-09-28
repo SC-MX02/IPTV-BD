@@ -77,6 +77,12 @@ https://stream.ottplus.bd/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
 https://tv.nurmd2006-official.workers.dev/live/sony_yay_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/SONY_YAY_2022_Logo.png/250px-SONY_YAY_2022_Logo.png" ,Sony YAY 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://drk6xq0vhn.gpcdn.net/live/sony_yay_abr/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Sony_Aath_Logo.png/250px-Sony_Aath_Logo.png" ,Sony Aath 1
 https://stream.ottplus.bd/live/sony_aath_abr/index.m3u8
 
