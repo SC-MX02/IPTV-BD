@@ -44,6 +44,12 @@ https://s3.itcnbd.live/server-9/stream/ZHVyb250by10di1oZA.m3u8
 #EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
 https://s3.itcnbd.live/server-9/stream/ZGlzbmV5LWNoYW5uZWw.m3u8
 
+#EXTINF:-1 tvg-logo="" ,Cartoon Network Hindi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
+#EXTVLCOPT:http-referrer=https://pro-torongoplus.vercel.app/
+#EXTVLCOPT:http-header=Origin: https://pro-torongoplus.vercel.app
+https://global.iptv-stock.workers.dev/live-stream/cn.m3u8
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",Star Sports Hindi
 http://41.205.93.154/STARSPORTS1/index.m3u8
 
