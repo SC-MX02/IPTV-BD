@@ -15,10 +15,10 @@ http://103.209.196.22:84/feed1001/index.fmp4.m3u8
 https://app.ncare.live/live-orgin/gazibdz.stream/live-orgin/gazibdz.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png",BTV 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+https://stream.dhadaktv.workers.dev/AkashGo/btv.m3u8
 
 #EXTINF:-1 tvg-logo="https://d38ll44lbmt52p.cloudfront.net/cms/channel_poster/1677040358634_BTVogo.png",BTV 2
-http://103.165.93.31:8095/btv/video.m3u8
+https://public.iptv-channels.workers.dev/tvs6/TjGR1GcxKetHNVcMVxbq/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
